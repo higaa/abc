@@ -1,6 +1,6 @@
 name: unittest
 on: [push]
-josb:
+jobs:
   unittest:
     runs-on: ubuntu-latest
 
